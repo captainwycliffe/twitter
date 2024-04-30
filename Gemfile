@@ -25,6 +25,8 @@ gem "stimulus-rails"
 
 gem 'bulma-rails', '~> 1.0'
 
+gem 'sassc-rails', '~> 2.1', '>= 2.1.2'
+
 gem 'simple_form', '~> 5.3'
 
 gem 'gravatar_image_tag', '~> 1.2'
